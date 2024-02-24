@@ -1,4 +1,4 @@
-> 提取扫描资产中，有`web`服务的资产，以`http/https://ip:port`形式保存到压缩包所在目录下的`url.tx`t中
+> 提取扫描资产中，有`web`服务的资产，以`http/https://ip:port`形式保存到压缩包所在目录下的`url.txt`中
 
 运行前需要安装`python`库
 
